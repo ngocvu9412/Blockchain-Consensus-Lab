@@ -1,0 +1,13 @@
+{
+  "light_difficulty": 2,
+  "block_time_ms": 300,
+  "stakes": [
+    200,
+    300,
+    150,
+    250,
+    100
+  ],
+  "leader_timeout_ms": 1000,
+  "finality_depth": 4
+}

@@ -1,0 +1,2 @@
+# Minimal requirements — keep it light for portability
+cryptography==42.0.5

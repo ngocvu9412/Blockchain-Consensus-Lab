@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "block_time_ms": 500,
+  "finality_depth": 4,
+  "initial_balances": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ]
+}
