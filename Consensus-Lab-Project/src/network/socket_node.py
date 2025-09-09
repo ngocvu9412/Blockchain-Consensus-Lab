@@ -73,8 +73,7 @@ class Node:
 
             # Gửi thật sự
             send_json("127.0.0.1", port, obj)
-            self.log("send_ok", peer=port, typ=obj.get("typ"))
-
+            
         except Exception as e:
             self.log("send_fail", peer=port, error=str(e))
 
